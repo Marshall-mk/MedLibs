@@ -1,5 +1,5 @@
 # MedLibs
-A decently comprehensive list of python libraries that are used for healthcare data analysis.
+## A decently comprehensive list of python libraries used for healthcare data analysis.
 
 ## [NumPy](https://numpy.org/doc/)
 A Numerical computing library for handling large, multi-dimensional arrays and mathematical functions. 
